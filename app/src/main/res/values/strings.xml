@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">music-player</string>
-    <string name="btnTouchMe">Tocame!</string>
+    <string name="load">Load directory!</string>
+    <string name="play">Play!</string>
 </resources>
